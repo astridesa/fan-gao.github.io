@@ -44,13 +44,13 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 ### 2026 🚀
 
 <div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
-  <strong><a href="https://arxiv.org/pdf/2601.08267" style="text-decoration: none; color: #ff6b6b;">Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning</a></strong><br>
+  <strong><a href="https://arxiv.org/pdf/2601.08267" style="text-decoration: none">Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning</a></strong><br>
   <span style="color: #666;">Fan Gao, Sherry T Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, Ding Xia, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese Taylor, Kazuma Kobayashi, Akkiko Aizawa, Irene Li</span><br>
   <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎤 ACL 2026</span>
 </div>
 
 <div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
-  <strong><a href="https://dl.acm.org/doi/full/10.1145/3772363.3799410" style="text-decoration: none; color: #ff6b6b;">Exploring a Collaborative Gamified Approach to Vision-Language Model Evaluation</a></strong><br>
+  <strong><a href="https://dl.acm.org/doi/full/10.1145/3772363.3799410" style="text-decoration: none;">Exploring a Collaborative Gamified Approach to Vision-Language Model Evaluation</a></strong><br>
   <span style="color: #666;">Fan Gao, Jenna Ren Mei Wang, Tomomi Sayuda, Miles Pennington, Yusuke Sugano</span><br>
   <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎮 CHI 2026 Poster</span>
 </div>
