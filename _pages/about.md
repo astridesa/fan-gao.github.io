@@ -17,13 +17,13 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a **PhD Student** in Information and Communication Engineering at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)). I also conduct research as part of [Li-Lab](https://weblab.t.u-tokyo.ac.jp/en/member/li-irene/) at UTokyo, working with [Prof. Irene Li](https://ireneli.eu/). 
+I am a **PhD Student** in Information and Communication Engineering at The University of Tokyo([Sato-Sugano Lab](https://www.ut-vision.org/), supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)). I also conduct research as part of [Li-Lab](https://weblab.t.u-tokyo.ac.jp/en/member/li-irene/) at UTokyo, working with [Prof. Irene Li](https://ireneli.eu/). 
 
 My research spans **Agentic LLMs**, **Healthcare AI**, and **Human-AI Interaction**, with a focus on developing intelligent systems that bridge human and artificial intelligence to solve real-world problems.
 
 ### 🎓 Education & Experience
-- **PhD in Information and Communication Engineering**, The University of Tokyo (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/))
-- **M.Eng in Information and Communications Engineering**, Tokyo Institute of Technology (Okumura-Funakoshi Lab, supervised by [Prof. Manabu Okumura](https://lr-www.pi.titech.ac.jp/wp_en/?page_id=87))
+- **PhD in Information and Communication Engineering**, The University of Tokyo ([Sato-Sugano Lab](https://www.ut-vision.org/), supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/))
+- **M.Eng in Information and Communications Engineering**, Tokyo Institute of Technology ([Okumura-Funakoshi Lab](https://www.lr.first.iir.isct.ac.jp/wp_en/), supervised by [Prof. Manabu Okumura](https://lr-www.pi.titech.ac.jp/wp_en/?page_id=87))
 - **B.Eng in Information Engineering**, South China University of Technology (supervised by [Lingyu Liang](https://lianglysky.github.io/LY-Liang/))
 - **Visiting Student**, [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/), National University of Singapore (collaborated with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm))
 
@@ -35,7 +35,8 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 - **🤖 Agentic LLMs** - Building LLM agents capable of deep reasoning and autonomous problem-solving
 - **🏥 Healthcare AI** - Developing AI for medical reasoning, decision support, and equitable global healthcare
 - **👥 Human-AI Interaction** - Designing interactive systems that improve human-AI collaboration through innovative feedback mechanisms
-- **👁️ Multimodal Learning** - VisionLanguage models and knowledge-augmented AI systems
+- **👁️ Multimodal Learning** - Vision-Language models and knowledge-augmented AI systems
+  
 ---
 
 ## 📚 Selected Publications & Research Projects
