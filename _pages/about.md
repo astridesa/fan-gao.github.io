@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <h1 style="font-size: 2.5em; margin-bottom: 5px;">🎓 Fan Gao (高帆)</h1>
+  <h1 style="font-size: 2.5em; margin-bottom: 5px;">🎓 Fan Gao</h1>
   <p style="font-size: 1.1em; color: #666; margin: 10px 0;">Researcher | AI Enthusiast | NLP Specialist</p>
 </div>
 
@@ -22,10 +22,10 @@ I am a **PhD Student** in Information and Communication Engineering at [The Univ
 My research spans **Agentic LLMs**, **Healthcare AI**, and **Human-AI Interaction**, with a focus on developing intelligent systems that bridge human and artificial intelligence to solve real-world problems.
 
 ### 🎓 Education & Experience
-- **PhD in Information and Communication Engineering**, The University of Tokyo (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)), April 2024 - expected April 2028
-- **M.Eng in Information and Communications Engineering**, Tokyo Institute of Technology (Okumura-Funakoshi Lab, supervised by [Prof. Manabu Okumura](https://lr-www.pi.titech.ac.jp/wp_en/?page_id=87)), Oct 2021 - March 2024
-- **B.Eng in Information Engineering**, South China University of Technology (supervised by [Lingyu Liang](https://lianglysky.github.io/LY-Liang/)), Sept 2016 - July 2020
-- **Visiting Student**, [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/), National University of Singapore (collaborated with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm)), June 2019 - Nov 2019
+- **PhD in Information and Communication Engineering**, The University of Tokyo (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/))
+- **M.Eng in Information and Communications Engineering**, Tokyo Institute of Technology (Okumura-Funakoshi Lab, supervised by [Prof. Manabu Okumura](https://lr-www.pi.titech.ac.jp/wp_en/?page_id=87))
+- **B.Eng in Information Engineering**, South China University of Technology (supervised by [Lingyu Liang](https://lianglysky.github.io/LY-Liang/))
+- **Visiting Student**, [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/), National University of Singapore (collaborated with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm))
 
 ---
 
@@ -35,21 +35,10 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 - **🤖 Agentic LLMs** - Building LLM agents capable of deep reasoning and autonomous problem-solving
 - **🏥 Healthcare AI** - Developing AI for medical reasoning, decision support, and equitable global healthcare
 - **👥 Human-AI Interaction** - Designing interactive systems that improve human-AI collaboration through innovative feedback mechanisms
-- **👁️ Multimodal Learning** - Vision-language models and knowledge-augmented AI systems
+- **👁️ Multimodal Learning** - VisionLanguage models and knowledge-augmented AI systems
 ---
 
-## 💼 Professional Experience
-
-| Period | Position | Organization | Mentors |
-|--------|----------|--------------|---------|
-| April 2024 - present | PhD Student (Agentic LLM Project) | Sato-Sugano Lab, IIS, UTokyo | [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/) |
-| June 2023 - present | Research Assistant (Medical Reasoning Project) | Li-Lab, UTokyo | [Prof. Irene Li](https://ireneli.eu/) |
-| Sept 2024 - April 2025 | Research Assistant (Japanese Medical VLM) | Machine Intelligence Lab, UTokyo | [Prof. Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/) |
-| Sept 2021 - April 2022 | Intern (Resume Assessment) | Baidu Talent Intelligence Center | [Dr. Hengshu Zhu](https://www.zhuhengshu.com/), [Prof. Yang Yang](http://www.njustkmg.cn/) |
-| Sept 2020 - May 2021 | Assistant Technology Researcher (Medical KG) | iFlytek Co.Ltd, Guangzhou | |
----
-
-## 📚 Publications & Research Projects
+## 📚 Selected Publications & Research Projects
 
 ### 2026 🚀
 
@@ -62,7 +51,7 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 <div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
   <strong><a href="https://dl.acm.org/doi/full/10.1145/3772363.3799410" style="text-decoration: none; color: #ff6b6b;">Exploring a Collaborative Gamified Approach to Vision-Language Model Evaluation</a></strong><br>
   <span style="color: #666;">Fan Gao, Jenna Ren Mei Wang, Tomomi Sayuda, Miles Pennington, Yusuke Sugano</span><br>
-  <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎮 CHI 2026</span>
+  <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎮 CHI 2026 Poster</span>
 </div>
 
 <div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
@@ -76,12 +65,12 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 <div style="background-color: #f0f8ff; padding: 15px; border-left: 4px solid #4169e1; margin-bottom: 15px; border-radius: 4px;">
   <strong>HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models</strong><br>
   <span style="color: #666;">Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, Chanjun Park, Irene Li</span><br>
-  <span style="background-color: #e6f0ff; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏥 CIKM 2025</span>
+  <span style="background-color: #e6f0ff; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏥 CIKM 2025 Demo</span>
 </div>
 
 <div style="background-color: #f0f8ff; padding: 15px; border-left: 4px solid #4169e1; margin-bottom: 15px; border-radius: 4px;">
   <strong><a href="https://aclanthology.org/2025.emnlp-main.202/" style="text-decoration: none; color: #4169e1;">ReAgent: Reversible Multi-Agent Reasoning for Knowledge-Enhanced Multi-Hop QA</a></strong><br>
-  <span style="color: #666;">Xinjie Zhao*, <strong>Fan Gao*</strong>, Rui Yang, Yingjian Chen, Yuyang Wang, Ying Zhu, Jiacheng Tang, Irene Li</span><br>
+  <span style="color: #666;">Xinjie Zhao*, <strong>Fan Gao*</strong>, Rui Yang, Yingjian Chen, Yuyang Wang, Ying Zhu, Jiacheng Tang, Irene Li (*: Equal contribution)</span><br>
   <span style="background-color: #e6f0ff; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🤖 EMNLP 2025</span>
 </div>
 
@@ -101,13 +90,13 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
   <span style="background-color: #d4edda; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏆 ACM Multimedia 2022</span>
 </div>
 
-### 2020
+<!-- ### 2020
 
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #6f42c1; margin-bottom: 15px; border-radius: 4px;">
   <strong><a href="https://ubiquitous.comp.nus.edu.sg/wp-content/uploads/2020/12/tvcg2020-imma-sort.pdf" style="text-decoration: none; color: #6f42c1;">I'mma Sort by two or more attributes with Interpretable Monotonic Multi-Attribute Sorting</a></strong><br>
   <span style="color: #666;">Yan Lyu, Fan Gao, I-Shuen Wu, Brian Y Lim</span><br>
   <span style="background-color: #e2d7f1; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">📑 IEEE TVCG 2020</span>
-</div>
+</div> -->
 
 ---
 
@@ -125,7 +114,7 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
   </div>
   <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px; border-radius: 8px; text-align: center;">
     <strong>🎮 Gamer</strong><br>
-    <span style="font-size: 0.9em;">Genshin Impact fan & more!</span>
+    <span style="font-size: 0.9em;">Enjoying games & more!</span>
   </div>
   <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px; border-radius: 8px; text-align: center;">
     <strong>🌐 Polyglot</strong><br>
@@ -135,7 +124,7 @@ My research focuses on advancing intelligent systems that enhance human-AI colla
 
 ---
 
-## 📬 Get in Touch
+<!-- ## 📬 Get in Touch
 
 Feel free to reach out for collaborations, research discussions, or just to chat!
 
@@ -144,7 +133,7 @@ Feel free to reach out for collaborations, research discussions, or just to chat
   🔗 <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=TqvMfmoAAAAJ">Profile Link</a>
 </div>
 
----
+--- -->
 
 <p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 30px;">
   <em>Last updated: May 2026 | Always learning, always growing 🚀</em>

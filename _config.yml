@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan's Page"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Fan Gao"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fan (Flora) Gao"
+  name             : "Fan"
   avatar           : "Fan.png"
   bio              : ""
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=TqvMfmoAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=TqvMfmoAAAAJ"
   email            : "fangao0802@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
