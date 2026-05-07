@@ -17,64 +17,96 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a **Researcher** at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), working under the supervision of [Irene Li](https://ireneli.eu/). I am passionate about bridging the gap between human intelligence and artificial intelligence through cutting-edge language technologies.
+I am a **PhD Student** in Information and Communication Engineering at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)). I also conduct research as part of [Li-Lab](https://weblab.t.u-tokyo.ac.jp/en/member/li-irene/) at UTokyo, working with [Prof. Irene Li](https://ireneli.eu/). 
+
+My research spans **Agentic LLMs**, **Healthcare AI**, and **Human-AI Interaction**, with a focus on developing intelligent systems that bridge human and artificial intelligence to solve real-world problems.
 
 ### 🎓 Education & Experience
-- **M.Eng**, Tokyo Institute of Technology
-- **B.Eng**, South China University of Technology (supervised by [Lingyu Liang](https://lianglysky.github.io/LY-Liang/))
-- **Visiting Student**, [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/), National University of Singapore (collaborated with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm))
+- **PhD in Information and Communication Engineering**, The University of Tokyo (Sato-Sugano Lab, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/)), April 2024 - expected April 2028
+- **M.Eng in Information and Communications Engineering**, Tokyo Institute of Technology (Okumura-Funakoshi Lab, supervised by [Prof. Manabu Okumura](https://lr-www.pi.titech.ac.jp/wp_en/?page_id=87)), Oct 2021 - March 2024
+- **B.Eng in Information Engineering**, South China University of Technology (supervised by [Lingyu Liang](https://lianglysky.github.io/LY-Liang/)), Sept 2016 - July 2020
+- **Visiting Student**, [Ubicomp Lab](https://ubiquitous.comp.nus.edu.sg/), National University of Singapore (collaborated with [Brian Lim](https://www.brianlim.net/) and [Yan Lyu](https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm)), June 2019 - Nov 2019
 
 ---
 
 ## 🔬 Research Interests
 
-My research focuses on advancing **Human-AI Interaction** through innovative approaches in:
-- **🤖 Large Language Models** & **Agentic LLMs**
-- **🌍 Natural Language Processing**
-- **👁️ Multimodal Artificial Intelligence**
-- **🔗 Knowledge Graphs & AI Integration**
-- **💬 Human-Computer Interaction with AI**
+My research focuses on advancing intelligent systems that enhance human-AI collaboration:
+- **🤖 Agentic LLMs** - Building LLM agents capable of deep reasoning and autonomous problem-solving
+- **🏥 Healthcare AI** - Developing AI for medical reasoning, decision support, and equitable global healthcare
+- **👥 Human-AI Interaction** - Designing interactive systems that improve human-AI collaboration through innovative feedback mechanisms
+- **👁️ Multimodal Learning** - Vision-language models and knowledge-augmented AI systems
 ---
 
 ## 💼 Professional Experience
 
 | Period | Position | Organization | Mentors |
 |--------|----------|--------------|---------|
-| 2022.09 - 2023.11 | Research & Development | Corpy&Co., Inc, Tokyo | |
-| 2021.09 - 2022.04 | Research Assistant | Talent Intelligence Center, Baidu | [Hengshu Zhu](https://www.zhuhengshu.com/), [Jingshuai Zhang](https://scholar.google.com/citations?user=xfpgoz4AAAAJ&hl=zh-CN), [Yang Yang](http://www.njustkmg.cn/) |
-| 2020.09 - 2021.05 | NLP Research Group | iFlytek Co.Ltd | |
+| April 2024 - present | PhD Student (Agentic LLM Project) | Sato-Sugano Lab, IIS, UTokyo | [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/) |
+| June 2023 - present | Research Assistant (Medical Reasoning Project) | Li-Lab, UTokyo | [Prof. Irene Li](https://ireneli.eu/) |
+| Sept 2024 - April 2025 | Research Assistant (Japanese Medical VLM) | Machine Intelligence Lab, UTokyo | [Prof. Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/) |
+| Sept 2021 - April 2022 | Intern (Resume Assessment) | Baidu Talent Intelligence Center | [Dr. Hengshu Zhu](https://www.zhuhengshu.com/), [Prof. Yang Yang](http://www.njustkmg.cn/) |
+| Sept 2020 - May 2021 | Assistant Technology Researcher (Medical KG) | iFlytek Co.Ltd, Guangzhou | |
 ---
 
 ## 📚 Publications & Research Projects
 
-### 2024 🔥
+### 2026 🚀
 
-<div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #0066cc; margin-bottom: 15px; border-radius: 4px;">
-  <strong>Multi-lingual Transfer for Cross-lingual Entity Alignment</strong><br>
-  <span style="color: #666;">Fan Gao, Ding Xia, Manabu Okumura</span><br>
-  <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">Under Review</span>
+<div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
+  <strong><a href="https://arxiv.org/pdf/2601.08267" style="text-decoration: none; color: #ff6b6b;">Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning</a></strong><br>
+  <span style="color: #666;">Fan Gao, Sherry T Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, Ding Xia, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese Taylor, Kazuma Kobayashi, Akkiko Aizawa, Irene Li</span><br>
+  <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎤 ACL 2026</span>
 </div>
 
+<div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
+  <strong><a href="https://dl.acm.org/doi/full/10.1145/3772363.3799410" style="text-decoration: none; color: #ff6b6b;">Exploring a Collaborative Gamified Approach to Vision-Language Model Evaluation</a></strong><br>
+  <span style="color: #666;">Fan Gao, Jenna Ren Mei Wang, Tomomi Sayuda, Miles Pennington, Yusuke Sugano</span><br>
+  <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🎮 CHI 2026</span>
+</div>
+
+<div style="background-color: #fff3cd; padding: 15px; border-left: 4px solid #ff6b6b; margin-bottom: 15px; border-radius: 4px;">
+  <strong>EssayBench: Evaluating Large Language Models in Multi-Genre Chinese Essay Writing</strong><br>
+  <span style="color: #666;">Fan Gao, Dongyuan Li, Ding Xia, Fei Mi, Yasheng Wang, Lifeng Shang, Baojun Wang</span><br>
+  <span style="background-color: #ffe6e6; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">📝 AAAI 2026</span>
+</div>
+
+### 2025 ⭐
+
+<div style="background-color: #f0f8ff; padding: 15px; border-left: 4px solid #4169e1; margin-bottom: 15px; border-radius: 4px;">
+  <strong>HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models</strong><br>
+  <span style="color: #666;">Fan Gao, Xinjie Zhao, Ding Xia, Zhongyi Zhou, Rui Yang, Jinghui Lu, Hang Jiang, Chanjun Park, Irene Li</span><br>
+  <span style="background-color: #e6f0ff; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏥 CIKM 2025</span>
+</div>
+
+<div style="background-color: #f0f8ff; padding: 15px; border-left: 4px solid #4169e1; margin-bottom: 15px; border-radius: 4px;">
+  <strong><a href="https://aclanthology.org/2025.emnlp-main.202/" style="text-decoration: none; color: #4169e1;">ReAgent: Reversible Multi-Agent Reasoning for Knowledge-Enhanced Multi-Hop QA</a></strong><br>
+  <span style="color: #666;">Xinjie Zhao*, <strong>Fan Gao*</strong>, Rui Yang, Yingjian Chen, Yuyang Wang, Ying Zhu, Jiacheng Tang, Irene Li</span><br>
+  <span style="background-color: #e6f0ff; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🤖 EMNLP 2025</span>
+</div>
+
+### 2024
+
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #0066cc; margin-bottom: 15px; border-radius: 4px;">
-  <strong><a href="https://arxiv.org/abs/2308.10410" style="text-decoration: none; color: #0066cc;">Large Language Models on Wikipedia-Style Survey Generation: an Evaluation in NLP Concepts</a></strong><br>
+  <strong><a href="https://aclanthology.org/2024.findings-acl.321/" style="text-decoration: none; color: #0066cc;">Large Language Models on Wikipedia-Style Survey Generation: an Evaluation in NLP Concepts</a></strong><br>
   <span style="color: #666;">Fan Gao, Hang Jiang, Moritz Blum, Jinghui Lu, Dairui Liu, Yuang Jiang, Irene Li</span><br>
-  <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">Under Review</span>
+  <span style="background-color: #e3f2fd; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">📚 ACL 2024 (Findings)</span>
 </div>
 
 ### 2022
 
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #28a745; margin-bottom: 15px; border-radius: 4px;">
   <strong><a href="https://dl.acm.org/doi/abs/10.1145/3503161.3548203" style="text-decoration: none; color: #28a745;">DOMFN: A Divergence-Orientated Multi-Modal Fusion Network for Resume Assessment</a></strong><br>
-  <span style="color: #666;">Yang Yang, JingShuai Zhang, Fan Gao, Xiaoru Gao and Hengshu Zhu</span><br>
-  <span style="background-color: #d4edda; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏆 ACM International Conference on Multimedia</span>
+  <span style="color: #666;">Yang Yang, JingShuai Zhang, Fan Gao, Xiaoru Gao, Hengshu Zhu</span><br>
+  <span style="background-color: #d4edda; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">🏆 ACM Multimedia 2022</span>
 </div>
 
 ### 2020
 
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 4px solid #6f42c1; margin-bottom: 15px; border-radius: 4px;">
-  <strong><a href="https://ubiquitous.comp.nus.edu.sg/wp-content/uploads/2020/12/tvcg2020-imma-sort.pdf" style="text-decoration: none; color: #6f42c1;">I'mma Sort by two or more attributes with Interetable Monotonic Multi-Attribute Sorting</a></strong><br>
+  <strong><a href="https://ubiquitous.comp.nus.edu.sg/wp-content/uploads/2020/12/tvcg2020-imma-sort.pdf" style="text-decoration: none; color: #6f42c1;">I'mma Sort by two or more attributes with Interpretable Monotonic Multi-Attribute Sorting</a></strong><br>
   <span style="color: #666;">Yan Lyu, Fan Gao, I-Shuen Wu, Brian Y Lim</span><br>
-  <span style="background-color: #e2d7f1; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">📑 IEEE Transactions on Visualization and Computer Graphics</span>
+  <span style="background-color: #e2d7f1; padding: 2px 8px; border-radius: 3px; font-size: 0.9em;">📑 IEEE TVCG 2020</span>
 </div>
 
 ---
